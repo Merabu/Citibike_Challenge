@@ -77,5 +77,16 @@ The purpose of this project is to leverage data from the Citi Bike programme in 
 
 ### The top ending location
 
+
+![Top ending locations](https://user-images.githubusercontent.com/115379848/232354926-5710426a-0620-4000-b9ee-bfa814a0ef80.png)
+
+
+
+
+
+
+
+
 ### The top Starting location
 
+<img width="436" alt="TOP starting location" src="https://user-images.githubusercontent.com/115379848/232354937-3787f144-4e94-4955-b136-e0c43db4fa5b.png">
