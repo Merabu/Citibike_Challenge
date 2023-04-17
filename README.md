@@ -3,6 +3,8 @@
 The results of the anlaysis are shown through a Tableu Story 
 https://public.tableau.com/app/profile/merabu.nagwandala/viz/Book2_16817077418960/NYC_Citibike_ChallengeStory?publish=yes 
 
+Dashboard https://public.tableau.com/app/profile/merabu.nagwandala/viz/Book2_16817077418960/NYCCitibikeAnalysis?publish=yes
+
 ## The purpose of the analysis is well defined
 
 The purpose of this project is to leverage data from the Citi Bike programme in New York City to determine whether it could be replicated in De Moines, Lowa. I was eable to accomplish this project by cleaning, changing Trip Duration to datetime Format and visualizing it using Tableau
