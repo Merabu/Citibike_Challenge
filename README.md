@@ -71,6 +71,7 @@ It visualizes weekday rider traffic around conventional communting hours however
 
 
 
+This viz shows difference in useage btween genders is heavily in favour of males.
 
 ### The User Trips by Gender by Weekday 
 This graph shows user beakdown btween user types is heavily in favour of subscribers over customer which shows that main users are subscribers which are males
