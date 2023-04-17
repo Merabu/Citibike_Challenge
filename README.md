@@ -85,10 +85,10 @@ This graph shows user beakdown btween user types is heavily in favour of subscri
 
 
 
-## Summary:
 
 
-### The top ending location /  ### The top Starting location
+
+### The top ending location / The top Starting location
 
 The Two viz shows the popular ending and starting locations of users respectfully. They show how heavily center in the highly Urban area and decrease in popularity the suburan gets and how they heavily in heavily urban area and decreas in poularity the more rural area get respectfully
 
@@ -108,3 +108,21 @@ The Two viz shows the popular ending and starting locations of users respectfull
 
 
 <img width="436" alt="TOP starting location" src="https://user-images.githubusercontent.com/115379848/232354937-3787f144-4e94-4955-b136-e0c43db4fa5b.png">
+
+
+
+
+
+
+
+## Summary:
+
+In the course of this project I learned the following lessonsn that need to be known to make Citi bike programme sucessful in De Moines.
+
+1. Provide incentives to promote daily useage during commuting hours of the week.
+
+2. Densely populated areas should be the main focus.
+
+3. The target segment should be men
+
+
