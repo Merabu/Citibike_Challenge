@@ -1,6 +1,8 @@
 #  NYC_Citibike_Challenge
 
-The results of the anlaysis are shown through a Tableu Story
+The results of the anlaysis are shown through a Tableu Story 
+
+https://public.tableau.com/app/profile/merabu.nagwandala/viz/Book2_16817077418960/NYC_Citibike_ChallengeStory?publish=yes
 
 
 ## The purpose of the analysis is well defined
